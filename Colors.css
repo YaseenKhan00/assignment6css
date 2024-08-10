@@ -1,0 +1,39 @@
+/* body{
+    color: aqua;
+    background-color: blue;
+} */
+
+ /* RGB/RGBA */
+
+/* p{
+    color: rgb(red, green, blue);
+    background-color: rgba(0, 0, 0, 0.8);
+} */
+
+/* Hex Code */
+/* 
+p{
+    color: #152B3C;
+    background-color: #3A668B;
+} */
+
+/* Color Name */
+
+/* p{
+    color: black;
+    background-color: yellowgreen;
+} */
+
+/* HSL/HSLA */
+
+/* p{
+    background-color: #F3A9C8;
+    background-color: hsl(1,6%,48%);}
+   
+} */
+
+/* opacity */
+
+p{
+    opacity: inherit;
+}

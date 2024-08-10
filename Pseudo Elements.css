@@ -1,0 +1,6 @@
+.one::first-letter{
+    font-size:150%;
+}
+.one::first-line{
+    font-weight:initial;
+}

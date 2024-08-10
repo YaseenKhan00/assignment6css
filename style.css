@@ -1,0 +1,18 @@
+header{
+    color: blue;
+    background-color: aqua;
+    font-size: larger;
+    margin-bottom: 50px;
+}
+main{
+    color: rgb(233, 79, 7);
+    background-color: rgb(0, 44, 111);
+    font-size: large;
+    margin-bottom: 50px;
+}
+footer{
+    color:darkgreen ;
+    background-color: aquamarine;
+    font-size: large;
+    margin-bottom: 50px;
+}

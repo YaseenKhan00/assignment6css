@@ -1,0 +1,20 @@
+/* a:link {
+    color: deeppink;
+    text-decoration: none;}
+    a:visited{
+        color: aqua;
+        text-decoration: none;
+
+    }
+    a:hover{
+        color: brown;
+        text-decoration: underline;
+    }
+    a:active{
+        color: chartreuse;
+        text-decoration: double;
+    }
+    a:focus{
+        color: cornflowerblue;
+        text-decoration: aqua;
+    } */
